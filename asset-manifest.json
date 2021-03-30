@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/marchmvp/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/marchmvp/static/js/main.b4834927.chunk.js",
+    "main.js.map": "/marchmvp/static/js/main.b4834927.chunk.js.map",
+    "runtime-main.js": "/marchmvp/static/js/runtime-main.6c877822.js",
+    "runtime-main.js.map": "/marchmvp/static/js/runtime-main.6c877822.js.map",
+    "static/js/2.62552c91.chunk.js": "/marchmvp/static/js/2.62552c91.chunk.js",
+    "static/js/2.62552c91.chunk.js.map": "/marchmvp/static/js/2.62552c91.chunk.js.map",
+    "static/js/3.c93d97cd.chunk.js": "/marchmvp/static/js/3.c93d97cd.chunk.js",
+    "static/js/3.c93d97cd.chunk.js.map": "/marchmvp/static/js/3.c93d97cd.chunk.js.map",
+    "index.html": "/marchmvp/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/marchmvp/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.62552c91.chunk.js.LICENSE.txt": "/marchmvp/static/js/2.62552c91.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/marchmvp/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c877822.js",
+    "static/js/2.62552c91.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b4834927.chunk.js"
+  ]
+}
